@@ -1,0 +1,2 @@
+,Explained_Variance_Score,Mean_Absolute_Error,Features_Dropped
+0,0.9180361302781919,5.544891893909239,"['state', 'summit_elev', 'vertical_drop']"
